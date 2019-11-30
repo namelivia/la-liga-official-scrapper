@@ -15,5 +15,6 @@ setup(
         'pymongo >= 3.9.0',
         'unittest2 >= 1.1.0',
         'mongomock >= 3.18.0',
+        'lxml >= 4.4.2',
     ],
 )
