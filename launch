@@ -1,0 +1,8 @@
+#!/usr/bin/python
+from la_liga_official_scrapper.la_liga_official_scrapper import LaLigaOfficialScrapper
+def main():
+	dateRange = 5
+	laLigaOficialScrapper = LaLigaOfficialScrapper() 
+	laLigaOficialScrapper.start_scrapping(dateRange)
+if __name__ == "__main__":
+	main()

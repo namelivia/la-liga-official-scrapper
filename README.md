@@ -1,7 +1,9 @@
 # La Liga Official Scrapper [![Build Status](https://travis-ci.org/namelivia/la-liga-official-scrapper.svg?branch=master)](https://travis-ci.org/namelivia/la-liga-official-scrapper)
 
 ## Warning
-I wrote this scrapper some years ago so it is outdated, I'm currently checking if it works or if the page it was getting the info from still stays the same.
+I wrote this scrapper some years ago so it is outdated, ~~I'm currently checking if it works or if the page it was getting the info from still stays the same.~~
+
+The Official La Liga webpage has changed since then so this scrapper is pretty much useless today. I may decide to rewrite it one day but for now this just stays here as a memorial.
 
 ## What is this?
 This is a scrapper I wrote some years ago for a side-project called Cryptopool related with cryptocurrencies and soccer pools. Due to time constrains the project was abandoned but I had already wrote significant pieces on my spare time like this scapper and I've decided to publish and revamp some of the code that may be useful for somebody else.
