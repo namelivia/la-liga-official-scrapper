@@ -17,5 +17,6 @@ setup(
         'mongomock >= 3.18.0',
         'lxml >= 4.4.2',
         'requests >= 2.22.0',
+        'python-dateutil >= 2.8.1',
     ],
 )
