@@ -1,7 +1,7 @@
 # La Liga Official Scrapper
 
 ## Warning
-This scrapper is outdated, I'm currently checking if it works or if the page it was getting the info from still stays the same.
+I wrote this scrapper many years ago so it is outdated, I'm currently checking if it works or if the page it was getting the info from still stays the same.
 
 ## Requeriments
 
