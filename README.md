@@ -5,7 +5,7 @@ I wrote this scrapper many years ago so it is outdated, I'm currently checking i
 
 ## Requeriments
 
-* python3
+* python => 3.5
 * pip3
 
 ## Installation
